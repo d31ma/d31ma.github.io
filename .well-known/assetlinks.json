@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.tachyon.link_gate",
+      "sha256_cert_fingerprints": [
+        "DA:67:50:4F:82:19:77:62:61:DF:31:5C:7C:D3:92:26:BE:AB:76:B8:FC:25:50:A5:70:E4:69:2F:AB:F9:5E:48"
+      ]
+    }
+  }
+]
